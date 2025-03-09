@@ -8,4 +8,5 @@ public final class SunburnAddressConstants {
 	
 	public static final String Message_201 = "Address Created successfully";
 	
+	public static final String Message_400 = "Unable to fectch address";
 }
